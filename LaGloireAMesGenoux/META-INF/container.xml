@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Desktop.mscx"/>
+    <rootfile full-path="Excerpts/0_笛/0_笛.mss"/>
+    <rootfile full-path="Excerpts/0_笛/0_笛.mscx"/>
+    <rootfile full-path="Excerpts/1_柳/1_柳.mss"/>
+    <rootfile full-path="Excerpts/1_柳/1_柳.mscx"/>
+    <rootfile full-path="Excerpts/2_阮/2_阮.mss"/>
+    <rootfile full-path="Excerpts/2_阮/2_阮.mscx"/>
+    <rootfile full-path="Excerpts/3_胡/3_胡.mss"/>
+    <rootfile full-path="Excerpts/3_胡/3_胡.mscx"/>
+    <rootfile full-path="Excerpts/4_Cello/4_Cello.mss"/>
+    <rootfile full-path="Excerpts/4_Cello/4_Cello.mscx"/>
+    <rootfile full-path="Excerpts/5_鼓組/5_鼓組.mss"/>
+    <rootfile full-path="Excerpts/5_鼓組/5_鼓組.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_笛/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_笛/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_柳/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_柳/audiosettings.json"/>
+    <rootfile full-path="Excerpts/2_阮/viewsettings.json"/>
+    <rootfile full-path="Excerpts/2_阮/audiosettings.json"/>
+    <rootfile full-path="Excerpts/3_胡/viewsettings.json"/>
+    <rootfile full-path="Excerpts/3_胡/audiosettings.json"/>
+    <rootfile full-path="Excerpts/4_Cello/viewsettings.json"/>
+    <rootfile full-path="Excerpts/4_Cello/audiosettings.json"/>
+    <rootfile full-path="Excerpts/5_鼓組/viewsettings.json"/>
+    <rootfile full-path="Excerpts/5_鼓組/audiosettings.json"/>
+    </rootfiles>
+  </container>
