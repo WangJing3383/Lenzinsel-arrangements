@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Game-of-Thrones.mscx"/>
+    <rootfile full-path="Excerpts/0_笛子/0_笛子.mss"/>
+    <rootfile full-path="Excerpts/0_笛子/0_笛子.mscx"/>
+    <rootfile full-path="Excerpts/1_中音鼓/1_中音鼓.mss"/>
+    <rootfile full-path="Excerpts/1_中音鼓/1_中音鼓.mscx"/>
+    <rootfile full-path="Excerpts/2_低音鼓/2_低音鼓.mss"/>
+    <rootfile full-path="Excerpts/2_低音鼓/2_低音鼓.mscx"/>
+    <rootfile full-path="Excerpts/3_二胡_一/3_二胡_一.mss"/>
+    <rootfile full-path="Excerpts/3_二胡_一/3_二胡_一.mscx"/>
+    <rootfile full-path="Excerpts/4_二胡_二/4_二胡_二.mss"/>
+    <rootfile full-path="Excerpts/4_二胡_二/4_二胡_二.mscx"/>
+    <rootfile full-path="Excerpts/5_古筝_二/5_古筝_二.mss"/>
+    <rootfile full-path="Excerpts/5_古筝_二/5_古筝_二.mscx"/>
+    <rootfile full-path="Excerpts/6_琵琶_一/6_琵琶_一.mss"/>
+    <rootfile full-path="Excerpts/6_琵琶_一/6_琵琶_一.mscx"/>
+    <rootfile full-path="Excerpts/7_箫/7_箫.mss"/>
+    <rootfile full-path="Excerpts/7_箫/7_箫.mscx"/>
+    <rootfile full-path="Excerpts/8_古筝_一/8_古筝_一.mss"/>
+    <rootfile full-path="Excerpts/8_古筝_一/8_古筝_一.mscx"/>
+    <rootfile full-path="Excerpts/9_钢琴/9_钢琴.mss"/>
+    <rootfile full-path="Excerpts/9_钢琴/9_钢琴.mscx"/>
+    <rootfile full-path="Excerpts/10_琵琶_二/10_琵琶_二.mss"/>
+    <rootfile full-path="Excerpts/10_琵琶_二/10_琵琶_二.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_笛子/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_笛子/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_中音鼓/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_中音鼓/audiosettings.json"/>
+    <rootfile full-path="Excerpts/2_低音鼓/viewsettings.json"/>
+    <rootfile full-path="Excerpts/2_低音鼓/audiosettings.json"/>
+    <rootfile full-path="Excerpts/3_二胡_一/viewsettings.json"/>
+    <rootfile full-path="Excerpts/3_二胡_一/audiosettings.json"/>
+    <rootfile full-path="Excerpts/4_二胡_二/viewsettings.json"/>
+    <rootfile full-path="Excerpts/4_二胡_二/audiosettings.json"/>
+    <rootfile full-path="Excerpts/5_古筝_二/viewsettings.json"/>
+    <rootfile full-path="Excerpts/5_古筝_二/audiosettings.json"/>
+    <rootfile full-path="Excerpts/6_琵琶_一/viewsettings.json"/>
+    <rootfile full-path="Excerpts/6_琵琶_一/audiosettings.json"/>
+    <rootfile full-path="Excerpts/7_箫/viewsettings.json"/>
+    <rootfile full-path="Excerpts/7_箫/audiosettings.json"/>
+    <rootfile full-path="Excerpts/8_古筝_一/viewsettings.json"/>
+    <rootfile full-path="Excerpts/8_古筝_一/audiosettings.json"/>
+    <rootfile full-path="Excerpts/9_钢琴/viewsettings.json"/>
+    <rootfile full-path="Excerpts/9_钢琴/audiosettings.json"/>
+    <rootfile full-path="Excerpts/10_琵琶_二/viewsettings.json"/>
+    <rootfile full-path="Excerpts/10_琵琶_二/audiosettings.json"/>
+    </rootfiles>
+  </container>
