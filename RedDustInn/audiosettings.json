@@ -100,44 +100,6 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "lute",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0.699999988079071
-            },
-            "partId": "2",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
             "instrumentId": "metronome",
             "out": {
                 "balance": 0,
@@ -156,17 +118,20 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "PIPA",
+                        "presetProgram": "0",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\0",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "koto",
+            "instrumentId": "lute",
             "out": {
                 "auxSends": [
                     {
@@ -181,9 +146,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 1.2999999523162842
+                "volumeDb": 0.699999988079071
             },
-            "partId": "3",
+            "partId": "2",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -232,6 +197,47 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "GUZHEN",
+                        "presetProgram": "3",
+                        "soundFontName": "DSK Asian DreamZ"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "DSK Asian DreamZ\\0\\3",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "koto",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 1.2999999523162842
+            },
+            "partId": "3",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
                         "soundFontName": "MS Basic"
                     },
                     "hasNativeEditorSupport": false,
@@ -270,10 +276,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "PIPA",
+                        "presetProgram": "0",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\0",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -308,48 +317,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "ERHU",
+                        "presetProgram": "4",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "guitar-steel",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 2
-            },
-            "partId": "16",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\4",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -374,6 +348,47 @@
                 "volumeDb": 0
             },
             "partId": "18",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "GUZHEN",
+                        "presetProgram": "3",
+                        "soundFontName": "DSK Asian DreamZ"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "DSK Asian DreamZ\\0\\3",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "guitar-steel",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 2
+            },
+            "partId": "16",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -422,10 +437,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "CWS_Tenor_2",
+                        "presetProgram": "1",
+                        "soundFontName": "CWS_DiZi_Free"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "CWS_DiZi_Free\\0\\1",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },

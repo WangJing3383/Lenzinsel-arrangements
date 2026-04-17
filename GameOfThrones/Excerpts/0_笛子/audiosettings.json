@@ -1,16 +1,16 @@
 {
     "tracks": [
         {
-            "instrumentId": "shakuhachi",
-            "partId": "12",
+            "instrumentId": "violin",
+            "partId": "20",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "violin",
-            "partId": "20",
+            "instrumentId": "shakuhachi",
+            "partId": "12",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -73,16 +73,16 @@
             }
         },
         {
-            "instrumentId": "snare-drum",
-            "partId": "31",
+            "instrumentId": "crash-cymbal",
+            "partId": "35",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "crash-cymbal",
-            "partId": "35",
+            "instrumentId": "snare-drum",
+            "partId": "31",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
