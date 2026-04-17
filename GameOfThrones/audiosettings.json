@@ -100,16 +100,26 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "metronome",
+            "instrumentId": "timpani",
             "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
                 "balance": 0,
                 "fxChain": {
                 },
                 "volumeDb": 0
             },
-            "partId": "999",
+            "partId": "30",
             "soloMuteState": {
-                "mute": false,
+                "mute": true,
                 "solo": false
             }
         },
@@ -118,10 +128,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "PIPA",
+                        "presetProgram": "0",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\0",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -166,26 +179,16 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "timpani",
+            "instrumentId": "metronome",
             "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
                 "balance": 0,
                 "fxChain": {
                 },
                 "volumeDb": 0
             },
-            "partId": "30",
+            "partId": "999",
             "soloMuteState": {
-                "mute": true,
+                "mute": false,
                 "solo": false
             }
         },
@@ -270,10 +273,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "PIPA",
+                        "presetProgram": "0",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\0",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -346,10 +352,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "GUZHEN",
+                        "presetProgram": "3",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\3",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -376,44 +385,6 @@
             "partId": "28",
             "soloMuteState": {
                 "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "crash-cymbal",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "35",
-            "soloMuteState": {
-                "mute": true,
                 "solo": false
             }
         },
@@ -470,6 +441,44 @@
                 "unitConfiguration": {
                 }
             },
+            "instrumentId": "crash-cymbal",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "35",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
             "instrumentId": "drumset",
             "out": {
                 "auxSends": [
@@ -498,10 +507,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "ERHU",
+                        "presetProgram": "4",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\4",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -574,10 +586,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "ERHU",
+                        "presetProgram": "4",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\4",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -612,10 +627,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "CWS_Tenor_2",
+                        "presetProgram": "1",
+                        "soundFontName": "CWS_DiZi_Free"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "CWS_DiZi_Free\\0\\1",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -650,10 +668,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "GUZHEN",
+                        "presetProgram": "3",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\3",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },

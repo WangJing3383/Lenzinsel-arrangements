@@ -17,14 +17,6 @@
             }
         },
         {
-            "instrumentId": "lute",
-            "partId": "2",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "pan-flute",
             "partId": "10",
             "soloMuteState": {
@@ -43,6 +35,14 @@
         {
             "instrumentId": "violin",
             "partId": "4",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "lute",
+            "partId": "2",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -89,16 +89,16 @@
             }
         },
         {
-            "instrumentId": "shakuhachi",
-            "partId": "11",
+            "instrumentId": "claves",
+            "partId": "9",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "claves",
-            "partId": "9",
+            "instrumentId": "shakuhachi",
+            "partId": "11",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -113,16 +113,16 @@
             }
         },
         {
-            "instrumentId": "erhu",
-            "partId": "11",
+            "instrumentId": "c-bass-ocarina",
+            "partId": "13",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "c-bass-ocarina",
-            "partId": "13",
+            "instrumentId": "erhu",
+            "partId": "11",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -177,16 +177,16 @@
             }
         },
         {
-            "instrumentId": "guitar-steel",
-            "partId": "16",
+            "instrumentId": "violin",
+            "partId": "18",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "violin",
-            "partId": "18",
+            "instrumentId": "guitar-steel",
+            "partId": "16",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

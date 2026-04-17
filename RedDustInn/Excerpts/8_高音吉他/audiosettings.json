@@ -1,16 +1,16 @@
 {
     "tracks": [
         {
-            "instrumentId": "shakuhachi",
-            "partId": "13",
+            "instrumentId": "piano",
+            "partId": "1",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
             }
         },
         {
-            "instrumentId": "piano",
-            "partId": "1",
+            "instrumentId": "shakuhachi",
+            "partId": "13",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -25,8 +25,8 @@
             }
         },
         {
-            "instrumentId": "claves",
-            "partId": "9",
+            "instrumentId": "flute",
+            "partId": "17",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -41,8 +41,8 @@
             }
         },
         {
-            "instrumentId": "flute",
-            "partId": "17",
+            "instrumentId": "claves",
+            "partId": "9",
             "soloMuteState": {
                 "mute": true,
                 "solo": false

@@ -90,10 +90,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "ERHU",
+                        "presetProgram": "4",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\4",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -194,10 +197,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "PIPA",
+                        "presetProgram": "0",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\0",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -308,10 +314,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "GUZHEN",
+                        "presetProgram": "3",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\3",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -346,10 +355,13 @@
                 "resourceMeta": {
                     "attributes": {
                         "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "presetBank": "0",
+                        "presetName": "CWS_Tenor_2",
+                        "presetProgram": "1",
+                        "soundFontName": "CWS_DiZi_Free"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "CWS_DiZi_Free\\0\\1",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
