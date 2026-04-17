@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Red_Dust_Inn_Jay_Chou.mscx"/>
+    <rootfile full-path="Excerpts/0_古筝/0_古筝.mss"/>
+    <rootfile full-path="Excerpts/0_古筝/0_古筝.mscx"/>
+    <rootfile full-path="Excerpts/1_响棒/1_响棒.mss"/>
+    <rootfile full-path="Excerpts/1_响棒/1_响棒.mscx"/>
+    <rootfile full-path="Excerpts/2_古琵琶/2_古琵琶.mss"/>
+    <rootfile full-path="Excerpts/2_古琵琶/2_古琵琶.mscx"/>
+    <rootfile full-path="Excerpts/3_古筝_(1)/3_古筝_(1).mss"/>
+    <rootfile full-path="Excerpts/3_古筝_(1)/3_古筝_(1).mscx"/>
+    <rootfile full-path="Excerpts/4_钢琴/4_钢琴.mss"/>
+    <rootfile full-path="Excerpts/4_钢琴/4_钢琴.mscx"/>
+    <rootfile full-path="Excerpts/5_尺八/5_尺八.mss"/>
+    <rootfile full-path="Excerpts/5_尺八/5_尺八.mscx"/>
+    <rootfile full-path="Excerpts/6_原音吉他/6_原音吉他.mss"/>
+    <rootfile full-path="Excerpts/6_原音吉他/6_原音吉他.mscx"/>
+    <rootfile full-path="Excerpts/7_鼓组/7_鼓组.mss"/>
+    <rootfile full-path="Excerpts/7_鼓组/7_鼓组.mscx"/>
+    <rootfile full-path="Excerpts/8_高音吉他/8_高音吉他.mss"/>
+    <rootfile full-path="Excerpts/8_高音吉他/8_高音吉他.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_古筝/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_古筝/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_响棒/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_响棒/audiosettings.json"/>
+    <rootfile full-path="Excerpts/2_古琵琶/viewsettings.json"/>
+    <rootfile full-path="Excerpts/2_古琵琶/audiosettings.json"/>
+    <rootfile full-path="Excerpts/3_古筝_(1)/viewsettings.json"/>
+    <rootfile full-path="Excerpts/3_古筝_(1)/audiosettings.json"/>
+    <rootfile full-path="Excerpts/4_钢琴/viewsettings.json"/>
+    <rootfile full-path="Excerpts/4_钢琴/audiosettings.json"/>
+    <rootfile full-path="Excerpts/5_尺八/viewsettings.json"/>
+    <rootfile full-path="Excerpts/5_尺八/audiosettings.json"/>
+    <rootfile full-path="Excerpts/6_原音吉他/viewsettings.json"/>
+    <rootfile full-path="Excerpts/6_原音吉他/audiosettings.json"/>
+    <rootfile full-path="Excerpts/7_鼓组/viewsettings.json"/>
+    <rootfile full-path="Excerpts/7_鼓组/audiosettings.json"/>
+    <rootfile full-path="Excerpts/8_高音吉他/viewsettings.json"/>
+    <rootfile full-path="Excerpts/8_高音吉他/audiosettings.json"/>
+    </rootfiles>
+  </container>

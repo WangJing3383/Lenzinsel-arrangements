@@ -1,0 +1,20 @@
+{
+    "tracks": [
+        {
+            "instrumentId": "flute",
+            "partId": "17",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "violin",
+            "partId": "18",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        }
+    ]
+}
