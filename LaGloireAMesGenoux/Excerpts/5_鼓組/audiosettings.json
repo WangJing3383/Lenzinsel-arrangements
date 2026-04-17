@@ -9,14 +9,6 @@
             }
         },
         {
-            "instrumentId": "mandolin",
-            "partId": "3",
-            "soloMuteState": {
-                "mute": true,
-                "solo": false
-            }
-        },
-        {
             "instrumentId": "violoncello",
             "partId": "7",
             "soloMuteState": {
@@ -25,8 +17,8 @@
             }
         },
         {
-            "instrumentId": "koto",
-            "partId": "4",
+            "instrumentId": "mandolin",
+            "partId": "3",
             "soloMuteState": {
                 "mute": true,
                 "solo": false
@@ -41,10 +33,26 @@
             }
         },
         {
+            "instrumentId": "koto",
+            "partId": "4",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
             "instrumentId": "drumset",
             "partId": "8",
             "soloMuteState": {
                 "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "alto-saxophone",
+            "partId": "9",
+            "soloMuteState": {
+                "mute": true,
                 "solo": false
             }
         }

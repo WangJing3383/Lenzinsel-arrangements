@@ -96,7 +96,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "erhu",
+            "instrumentId": "koto",
             "out": {
                 "auxSends": [
                     {
@@ -111,9 +111,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 2
+                "volumeDb": -10.699999809265137
             },
-            "partId": "6",
+            "partId": "4",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -158,7 +158,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "koto",
+            "instrumentId": "erhu",
             "out": {
                 "auxSends": [
                     {
@@ -173,45 +173,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -10.699999809265137
+                "volumeDb": 2
             },
-            "partId": "4",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "mandolin",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": -11.300000190734863
-            },
-            "partId": "3",
+            "partId": "6",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -266,6 +230,42 @@
                 "unitConfiguration": {
                 }
             },
+            "instrumentId": "mandolin",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -11.300000190734863
+            },
+            "partId": "3",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
             "instrumentId": "g-dizi",
             "out": {
                 "auxSends": [
@@ -284,6 +284,44 @@
                 "volumeDb": 3.299999952316284
             },
             "partId": "1",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "alto-saxophone",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "9",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
