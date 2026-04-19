@@ -75,7 +75,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -4.699999809265137
+                "volumeDb": 0
             },
             "partId": "8",
             "soloMuteState": {
@@ -87,16 +87,21 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "ERHU",
+                        "presetProgram": "4",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\4",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "koto",
+            "instrumentId": "erhu",
             "out": {
                 "auxSends": [
                     {
@@ -111,9 +116,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -10.699999809265137
+                "volumeDb": -2
             },
-            "partId": "4",
+            "partId": "6",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -149,16 +154,21 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "PIPA",
+                        "presetProgram": "0",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\0",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "erhu",
+            "instrumentId": "koto",
             "out": {
                 "auxSends": [
                     {
@@ -173,9 +183,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 2
+                "volumeDb": -5.300000190734863
             },
-            "partId": "6",
+            "partId": "4",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -185,45 +195,14 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "PIPA",
+                        "presetProgram": "0",
+                        "soundFontName": "DSK Asian DreamZ"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "violoncello",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 3.299999952316284
-            },
-            "partId": "7",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "DSK Asian DreamZ\\0\\0",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -245,7 +224,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -11.300000190734863
+                "volumeDb": -4.699999809265137
             },
             "partId": "3",
             "soloMuteState": {
@@ -257,9 +236,14 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "CWS_Tenor_2",
+                        "presetProgram": "1",
+                        "soundFontName": "CWS_DiZi_Free"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
+                    "id": "CWS_DiZi_Free\\0\\1",
                     "type": "fluid_soundfont",
                     "vendor": "Fluid"
                 },
@@ -281,9 +265,170 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 3.299999952316284
+                "volumeDb": -1.2999999523162842
             },
             "partId": "1",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "bb-trumpet",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -2
+            },
+            "partId": "10",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "Choir Aahs",
+                        "presetProgram": "52",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic\\0\\52",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "mezzo-soprano",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 8.699999809265137
+            },
+            "partId": "11",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "Choir Aahs",
+                        "presetProgram": "52",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic\\0\\52",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "tenor",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 9.300000190734863
+            },
+            "partId": "12",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "Violin",
+                        "presetProgram": "40",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic\\0\\40",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "violin",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -4.699999809265137
+            },
+            "partId": "9",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
@@ -304,7 +449,7 @@
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "alto-saxophone",
+            "instrumentId": "electric-bass",
             "out": {
                 "auxSends": [
                     {
@@ -319,9 +464,9 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -0.699999988079071
             },
-            "partId": "9",
+            "partId": "7",
             "soloMuteState": {
                 "mute": false,
                 "solo": false
