@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="山雀.mscx"/>
+    <rootfile full-path="Excerpts/0_琵琶2_吉他/0_琵琶2_吉他.mss"/>
+    <rootfile full-path="Excerpts/0_琵琶2_吉他/0_琵琶2_吉他.mscx"/>
+    <rootfile full-path="Excerpts/1_琵琶1_吉他/1_琵琶1_吉他.mss"/>
+    <rootfile full-path="Excerpts/1_琵琶1_吉他/1_琵琶1_吉他.mscx"/>
+    <rootfile full-path="Excerpts/2_萨克斯/2_萨克斯.mss"/>
+    <rootfile full-path="Excerpts/2_萨克斯/2_萨克斯.mscx"/>
+    <rootfile full-path="Excerpts/3_小提琴_二胡/3_小提琴_二胡.mss"/>
+    <rootfile full-path="Excerpts/3_小提琴_二胡/3_小提琴_二胡.mscx"/>
+    <rootfile full-path="Excerpts/4_电贝斯/4_电贝斯.mss"/>
+    <rootfile full-path="Excerpts/4_电贝斯/4_电贝斯.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_琵琶2_吉他/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_琵琶2_吉他/audiosettings.json"/>
+    <rootfile full-path="Excerpts/1_琵琶1_吉他/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_琵琶1_吉他/audiosettings.json"/>
+    <rootfile full-path="Excerpts/2_萨克斯/viewsettings.json"/>
+    <rootfile full-path="Excerpts/2_萨克斯/audiosettings.json"/>
+    <rootfile full-path="Excerpts/3_小提琴_二胡/viewsettings.json"/>
+    <rootfile full-path="Excerpts/3_小提琴_二胡/audiosettings.json"/>
+    <rootfile full-path="Excerpts/4_电贝斯/viewsettings.json"/>
+    <rootfile full-path="Excerpts/4_电贝斯/audiosettings.json"/>
+    </rootfiles>
+  </container>
